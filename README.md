@@ -6,7 +6,7 @@ La calculadora es capaz de interpretar y evaluar expresiones matemáticas que in
 **Explicacion Archivos**
 
 Gramatica (LabeledExpr.g4)
-- Se definen las expresiones aritmeticas se tokeniza.
+- Se definen las expresiones aritmeticas.
 
 EvalVisitor
 - Crea metodos vacios como: visitAddSub, visit MulDiv, visitFunction, visitAssign, visitPrintExpr, visitInt, visitFloat, etc...
