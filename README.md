@@ -13,6 +13,16 @@ EvalVisitor
 - Evalua cada nodo segun la funcion que debe hacer.
 - Retorna los resultados.
 
+  Metodos:
+  - visitInt: lee los numeros enteros.
+  - visitFloat: lee numeros decimales.
+  - visitAddSub: suma o resta.
+  - visitMulDiv: multiplica o divide.
+  - visitFunction: evalua sin(x), cos(x), etc. usando math en Python.
+  - visitAssign: guarda variables en un diccionario (memory).
+  - visitId: devuelve el valor de una variable.
+  - visitFactorial: calcula factorial.
+
 Lexer (Lo genera antlr4)
 - Lee el texto de entrada y lo divide en tokens para su entendimiento.
 
