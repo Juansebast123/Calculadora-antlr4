@@ -23,7 +23,7 @@ ADD : '+' ;
 SUB : '-' ;
 
 ID    : [a-zA-Z]+ ;
-FLOAT : [0-9]+ '.' [0-9]+ ;   // números con punto decimal
+FLOAT : [0-9]+ '.' [0-9]+ ;
 INT   : [0-9]+ ;
 NEWLINE:'\r'? '\n' ;
 WS    : [ \t]+ -> skip ;
