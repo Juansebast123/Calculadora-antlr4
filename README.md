@@ -1,7 +1,7 @@
 **Juan Sebastian Gonzalez Alvarez**
 
-El presente documento describe el diseño de una calculadora aritmética desarrollada utilizando ANTLR (en Java y Python)
-La calculadora es capaz de interpretar y evaluar expresiones matemáticas que incluyen operaciones básicas (+, -, *, /), funciones trigonométricas (sin, cos, tan), manejo de variables y precedencia de operadores.
+El documento describe el diseño de una calculadora aritmetica realizada utilizando ANTLR4 (en Java y Python).
+La calculadora es capaz de interpretar y evaluar expresiones matematicas que incluyen operaciones basicas (+, -, *, /), funciones trigonometricas (sin, cos, tan), manejo de variables y precedencia de operadores.
 
 **Explicacion Archivos**
 
