@@ -4,4 +4,6 @@ El presente documento describe el diseño de una calculadora aritmética desarro
 La calculadora es capaz de interpretar y evaluar expresiones matemáticas que incluyen operaciones básicas (+, -, *, /), funciones trigonométricas (sin, cos, tan), manejo de variables y precedencia de operadores.
 
 **Explicacion Archivos**
-- Gramatica (LabeledExpr.g4)
+
+Gramatica (LabeledExpr.g4)
+- 
